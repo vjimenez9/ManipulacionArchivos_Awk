@@ -1,0 +1,18 @@
+Naomi Santillan	75	80	100
+Monica Garcia	80	80	82
+Maya Cruz Rivera	50	90	70
+Carlos Vazquez Cortes	98	76	100
+Omar Alejandro Anzures	58	65	70
+Olivia Hernandez	100	99	98
+Alicia Bermudez Posa	78	86	90
+Frida Kalo	100	74	95	86
+Guillermo del Toro 80	90	50	50
+Federico Montes de Oca	54	67	70
+Miguel de Cervantes Saavedra	100	80	75
+Miguel Angel de Quevedo	80	95	75
+Jose Luis Cuevas	34	54	20
+Gabriel Garcia Marquez	90	85	75
+Jose Maria Victoria	70	65	72
+Maria Cristina Lopez Roa	100	90	70
+Mariana Caballero Juarez	100	100	100
+Katy Juarez Perez	40	56	60
